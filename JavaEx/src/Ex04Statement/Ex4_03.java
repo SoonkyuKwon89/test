@@ -1,5 +1,6 @@
 package Ex04Statement;
 /*
+ *깃 연습중
  * if - else 문
  * if 조건식에 거짓일 경우 실행될 문장이 필요할 때 쓰는 if문의 변형
  * if(조건식){
